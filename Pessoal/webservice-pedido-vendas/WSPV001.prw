@@ -1,4 +1,0 @@
-#INCLUDE "PROTHEUS.CH"
-User Function WSPV001
-
-Return
